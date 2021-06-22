@@ -1,14 +1,25 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import './index.css'
+ReactDOM.render(
 
-ReactDOM.render(<ul>
-  <li>Pakistan</li>
-  <li>Canada</li>
-  <li>Turkey</li>
-  <li>America</li>
-  <li>Japan</li>
-  <li>China</li>
-  <li>Brazil</li>
-  <li>SriLanka</li>
-</ul>,
+  <div class="scrollmenu">
+  <a href="#Home">Home</a>
+  <a href="#news">News</a>
+  <a href="#contact">Contact</a>
+  <a href="#about">About</a>
+  <a href="#support">Support</a>
+  <a href="#blog">Blog</a>
+  <a href="#tools">Tools</a>  
+  <a href="#base">Base</a>
+  <a href="#custom">Custom</a>
+  <a href="#more">More</a>
+  <a href="#logo">Logo</a>
+  <a href="#friends">Friends</a>
+  <a href="#partners">Partners</a>
+  <a href="#people">People</a>
+  <a href="#work">Work</a>
+  <h3>Awesome things happen in peace</h3>
+</div>
+  ,
  document.getElementById('root'));
