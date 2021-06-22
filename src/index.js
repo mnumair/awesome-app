@@ -9,5 +9,6 @@ ReactDOM.render(<ul>
   <li>Japan</li>
   <li>China</li>
   <li>Brazil</li>
+  <li>SriLanka</li>
 </ul>,
  document.getElementById('root'));
