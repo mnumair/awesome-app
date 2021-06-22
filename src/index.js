@@ -7,5 +7,6 @@ ReactDOM.render(<ul>
   <li>Turkey</li>
   <li>America</li>
   <li>Japan</li>
+  <li>China</li>
 </ul>,
  document.getElementById('root'));
