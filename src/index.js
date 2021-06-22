@@ -19,7 +19,6 @@ ReactDOM.render(
   <a href="#partners">Partners</a>
   <a href="#people">People</a>
   <a href="#work">Work</a>
-  <h3>Awesome things happen in peace</h3>
-</div>
+  </div>
   ,
  document.getElementById('root'));
