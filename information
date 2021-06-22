@@ -1,0 +1,4 @@
+a horizontal menu bar with multiple menu items 
+prettymuch basic react stuff. 
+but huge milestone considering that it includes my first self made html inside a react 'index.js' file
+although my next step would be to add a seperate html file (react component in short) and include it inside this index.js file to make it better
